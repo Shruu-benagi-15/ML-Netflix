@@ -72,3 +72,5 @@ We welcome contributions! Feel free to fork the repository, open issues, or subm
 For inquiries or suggestions, reach out to:  
 **[Your Name/Email/LinkedIn Profile]**
 
+## output
+![image alt](https://github.com/Shruu-benagi-15/ML-Netflix/blob/6177c5820ac018e05433fdfdf65736b2fdefa400/Screenshot%20(29).png)
